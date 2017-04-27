@@ -1,0 +1,1 @@
+# seminar_RoR.github.io
